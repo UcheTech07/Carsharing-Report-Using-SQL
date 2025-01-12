@@ -12,5 +12,25 @@ This repository contains SQL queries and documentation for analyzing a car-shari
 - **README.md**: This file provides an overview of the repository and instructions for accessing and using the SQL queries.
   
   Click 👉[here](https://drive.google.com/drive/folders/1pTGVIG2ZiC-okZywgFxUgeVXhXp1PMQn?usp=sharing) 👈to view this files.
+
+## SQL Queries
+1. Highest Demand rate in 2017
+- Query to find the date and time with the highest demand rate in 2017
+2. Average demand rates by Weekday, Month and season in 2017.
+- Query to find the highest and lowest average demand rates by weekday,month and season in 2017.
+3. Hourly demand rates by Weekday in 2017.
+- Query to find the average demand rate by hour for a selected weekday in 2017.
+4. Weather Analysis for 2017.
+- Query to analyze weather condition in 2017, including the prevalence of cold,mild or hot weather and average,highest and lowest windspeed and humidity for month.
+5. Average Demand Rate by Weather Category
+- Query to find the average demand rate for each weather category(cold,mild,hot) in 2017.
+6. Weather analysis for the Highest Demand Month in 2017
+- Query to analyze weather conditions for the month with the highest average demand rate in 2017.
+## Instructions
+1. Clone or download this repository to your local machine
+2. Open the SQL queries to file to view the SQL queries.
+3. Excute the SQL queries in your preferred SQL database management system (e.g, MySQL Workbench,SQLite)
+4. Review the results and analysis provided by each query
+5. Refer to the Data dictionary md file for descriptions of table struucture and column definitions.
   ## Author
   [Okonkwo Uche](https://www.linkedin.com/in/okonkwo-uche-28891a295)
